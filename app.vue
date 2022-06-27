@@ -1,5 +1,8 @@
+<script setup lang="ts">
+import { NButton } from 'naive-ui';
+</script>
 <template>
   <div>
-    <NuxtWelcome />
+    <NButton>test</NButton>
   </div>
 </template>
